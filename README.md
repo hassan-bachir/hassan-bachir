@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Bachir</h1>
 <h3 align="center">A constant learning junior programmer.</h3>
-<img align="right" style="width:200px;height:230px;margin-bottom:10px;"
-     src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan-bachir" alt="hassan-bachir" /></a> </p>
 
@@ -9,6 +7,8 @@
 
 - 📫 How to reach me **hassan.bachir001@gmail.com**
 
+<img align="right" style="width:200px;height:230px;margin-bottom:10px;"
+     src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassan-bachir-525351266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-bachir-525351266" height="30" width="40" /></a>
