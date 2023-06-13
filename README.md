@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-bachir&show_icons=true&locale=en" alt="hassan-bachir" /></p>
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- 🌱 I’m currently learning **typeScript-Angular**
 
 - 📫 How to reach me **hassan.bachir001@gmail.com**
 
