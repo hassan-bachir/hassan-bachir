@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Bachir</h1>
-<h3 align="center">A constant learning Web Developer.</h3>
+<h3 align="center">I code for fun !</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-bachir&show_icons=true&locale=en" alt="hassan-bachir" /></p>
