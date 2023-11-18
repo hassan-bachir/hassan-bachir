@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Bachir</h1>
-<h3 align="center"><a href="https://hassanbachir.com" target="blank">
+<h3 align="center"><a href="https://hassanbachir.com" target="_blank">
      hassanbachir.com
 </a></h3>
 
