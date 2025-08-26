@@ -15,4 +15,4 @@
 - 📫 How to reach me **hassan.bachir001@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-bachir&show_icons=true&locale=en&layout=compact" alt="hassan-bachir" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-bachir&show_icons=true&locale=en" alt="hassan-bachir" /></p>
+
