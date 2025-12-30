@@ -1,4 +1,4 @@
-### 💻 My Live Portfolio
+
 You can view my full portfolio and projects here:
 
 ➡️ **[Hassan Bachir Portfolio](https://hassan-bachir.vercel.app/)**
